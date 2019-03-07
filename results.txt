@@ -10,3 +10,4 @@ who are the most popular article authors in all time?
         3.Anonymous Contributor - 170098views
         4.Markoff Chaney - 84557views
 on which days did more than 1% of requests lead to errors?
+        July 17,2016 - 2.26% errors

@@ -10,11 +10,11 @@ python program using the `psycopg2` module to connect to the database.
 
 ## Need tools
 
-Vagrant
-VirtualBox
-Python
-psql databse
-any editor
+* Vagrant
+* VirtualBox
+* Python
+* psql databse
+* any editor
 
 
 ## logs analysis Project contents
@@ -31,26 +31,17 @@ Download the project zip file to you computer and unzip the file.
 
   1. Launch the Vagrant VM inside Vagrant sub-directory in the downloaded fullstack-nanodegree-vm repository using command:
   
-  #........................
-    $ vagrant up
-  ........................
+     $ vagrant up
+ 
   2. Then Log into this using command:
-  
-  #........................
     $ vagrant ssh
-  #........................
-  
+
   3. Change directory to /vagrant and look around with ls and move to the exact .py path.
   
-  #........................
-  
-  4.move to database psql
+  4. move to database psql
 
-  5.check the psql commands in gitbash 
-  
-  #........................
+  5. check the psql commands in gitbash 
     $ python logqueries.py
-  #........................
 
 
 ## Miscellaneous
